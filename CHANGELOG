@@ -1,0 +1,5 @@
+1.0
+	Library that generates CSS block and inline statements
+	Caching functionality for block statements
+	Full CSS 2.1 implemented
+	Partial CSS 3 implemented - Experimental
